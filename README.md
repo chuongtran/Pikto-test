@@ -5,13 +5,16 @@ The files were separated into 2 parts, back-end and front-end code.
 ## Backend
 `cd back-end`<br/>
 `npm install`<br/>
-`npm start`
+`npm start`<br/>
+Server will be run on port 8000
 
 ## Frontend
 // Now uing VueJS v2, was built by Vue Client<br/>
 `cd front-end`<br/>
 `npm install`<br/>
-`npm run dev`
+`npm run dev`<br/>
+Server will be run on port 8080
+
 
 The app was separated into pages, now there is just one page (HomePage)
 In HomePage, there are 2 containers, `sidebar` and `main-content`
