@@ -16,11 +16,11 @@ The files were separated into 2 parts, back-end and front-end code.
 The app was separated into pages, now there is just one page (HomePage)
 In HomePage, there are 2 containers, `sidebar` and `main-content`
 
-  - Home: 
+  - Home: <br/>
     data: `images`, `elements`<br/>
     methods: for updating images and elements
 
-  - Sidebar:
+  - Sidebar:<br/>
     components: `ImageUploader`, `ImageList`<br/>
     props: `images` sent from Home.<br/>
     methods: <br/>
