@@ -3,14 +3,14 @@
 The files were separated into 2 parts, back-end and front-end code.
 
 ## Backend
-`cd back-end`
-`run npm install`
+`cd back-end`<br/>
+`run npm install`<br/>
 `run npm start`
 
 ## Frontend
 // Now uing VueJS v2, was built by Vue Client
-`cd front-end`
-`runt npm install`
+`cd front-end`<br/>
+`run npm install`<br/>
 `run run dev`
 
 The app was separated into pages, now there is just one page (HomePage)
