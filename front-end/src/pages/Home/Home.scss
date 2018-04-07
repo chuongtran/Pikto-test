@@ -1,0 +1,12 @@
+@import '~variables';
+.sidebar {
+  padding: 15px;
+  background: $GREY_300;
+  height: 100vh;
+}
+.main-content {
+  width: 100%;
+  height: 100vh;
+  padding-right: 30px;
+  background-color: $GREY_50;
+}
